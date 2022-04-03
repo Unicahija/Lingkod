@@ -13,6 +13,9 @@ The goal of assessment is to collect useful information on student performance o
 
 
 ## METHODS
+The data that were obtained from the final examination of student in united states college. This study was conducted for all 200 students who have registered to the course. The purpose of the study is to examine students practical exam scores. As one of the outcomes from this study is a predictive model, 
+the research design utilized linear regression analysis. This design type also allows for 
+hypothesis testing. The methodology selection was driven by the research question.
 
 ## EXPECTED OUPUT
 The output of a strong, high-quality education is important. Final evidence of learning is referred to as an outcome. It occurs after the academic program has been completed. It is the consequence of learning, which is a tangible and measurable manifestation of three basic characteristics: knowledge, skill, and orientations. The quality of higher education is determined by these three criteria. There are discussions simmering about how to improve the quality of higher education as a result of economic expansion and globalization. The goal of educational programs is to improve student achievement. The conversation is focused on one's career, improving the quality of one's education, and professional development.
